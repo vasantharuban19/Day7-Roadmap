@@ -1,0 +1,1 @@
+This repo contains Roadmap Day7 contents and activities
